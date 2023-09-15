@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\bin\Debug\net6.0\tasksclass.exe
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\bin\Debug\net6.0\tasksclass.deps.json
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\bin\Debug\net6.0\tasksclass.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\bin\Debug\net6.0\tasksclass.dll
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\bin\Debug\net6.0\tasksclass.pdb
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\obj\Debug\net6.0\tasksclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\obj\Debug\net6.0\tasksclass.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\obj\Debug\net6.0\tasksclass.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\obj\Debug\net6.0\tasksclass.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\obj\Debug\net6.0\tasksclass.dll
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\obj\Debug\net6.0\refint\tasksclass.dll
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\obj\Debug\net6.0\tasksclass.pdb
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\obj\Debug\net6.0\tasksclass.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\csharp\tasksclass\tasksclass\obj\Debug\net6.0\ref\tasksclass.dll
